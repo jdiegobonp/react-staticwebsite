@@ -15,7 +15,7 @@ const Footer = () => {
       <Text mb="3">
         Provided by{' '}
         <Link href="#" isExternal color="blue.500">
-          Juan Diego Bonilla
+        https://github.com/jdiegobonp/react
         </Link>
       </Text>
       <Text opacity="0.5">Todo Application - Buit with Chakra UI - React </Text>
