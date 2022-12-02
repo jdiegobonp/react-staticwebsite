@@ -34,7 +34,7 @@ function Todo() {
           size='2xl' 
           bgGradient='linear(to-l, #E400E4, #57D7D3)' 
           bgClip='text'>
-        ToDo List
+        ToDo List v2
         </Heading>
       </Box>
       <TodoList todos={todos} deleteTodo={deleteTodo} />
