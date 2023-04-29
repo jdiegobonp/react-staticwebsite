@@ -24,6 +24,10 @@ jobs:
              uses: actions/setup-node@v3
              with:
                 node-version: 16
+
+           - name: Install React Package
+             run: npm i react-scripts
+             
            - name: Building project
              run: npm run build
 
